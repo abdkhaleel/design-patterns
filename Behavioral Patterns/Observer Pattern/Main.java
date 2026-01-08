@@ -62,7 +62,7 @@ public class Main {
 
         station.setTemperature(20);
 
-        station.remove(webObserver);;
+        station.remove(webObserver);
 
         station.setTemperature(50);
 
