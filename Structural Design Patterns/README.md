@@ -2,8 +2,6 @@
 
 Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient. They act as a blueprint for defining relationships between entities.
 
-*Note: The **Chain of Responsibility** pattern (included at the end as requested) is technically a **Behavioral** pattern, but it is described below.*
-
 ---
 
 ## 1. Adapter Pattern
